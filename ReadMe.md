@@ -16,7 +16,7 @@ install coq
 brew install coq
 ```
 
-install the IDE. Download the dmg from `https://github.com/coq/coq/releases/tag/V8.9.1` and install CoqIde into the applications folder.
+install the IDE. Download the dmg from [CoqIde](https://github.com/coq/coq/releases/tag/V8.9.1) and install CoqIde into the applications folder.
 
 ## Course ware
 
